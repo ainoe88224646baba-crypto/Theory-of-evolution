@@ -1,0 +1,4 @@
+.workbuddy/
+.gemini/
+node_modules/
+*.log
